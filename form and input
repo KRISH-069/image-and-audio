@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>railwy form</h1>
+    <label for="username">enter your username</label>
+<input type="text" id="username" name="username" placeholder="enter your username">
+<div>
+<label for="male">male</label>
+<input type="radio" name="gender" id="male" >
+
+<label for="male">male</label>
+<input type="radio" name="gender" id="male" >
+<div>
+<label for="comment">Enter your Comment</label>
+<br>
+<textarea id="comment" rows="6" cols="30" >enter your comment</textarea>
+</div>
+</body>
+</html>
